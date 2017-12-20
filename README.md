@@ -76,17 +76,17 @@ Se crearon canales de comunicación en _**Slack, Messenger, WhatsApp, Google Dri
 
 Se hicieron algunos _sketches_ para guiarnos y con ello nos dimos cuenta que era importante crear 6 plantillas: **Log in, Data Aula, Alumnas, Profersores, Perfil alumnas, Notas por sprint y Feedback**
 
-![sketch1](assets/images\sketch1.png)
+![sketch1](assets/images/sketch1.png)
 
-![sketch2](assets/images\sketch2.png)
+![sketch2](assets/images/sketch2.png)
 
-![sketch3](assets/images\sketch3.png)
+![sketch3](assets/images/sketch3.png)
 
-![sketch4](assets/images\sketch4.png)
+![sketch4](assets/images/sketch4.png)
 
-![sketch5](assets/images\sketch5.png)
+![sketch5](assets/images/sketch5.png)
 
-![sketch6](assets/images\sketch6.png)
+![sketch6](assets/images/sketch6.png)
 
 Al finalizar los _sketches_, se dio paso al maquetado en _html_ y _css_, dando como resultado:
 
@@ -94,11 +94,11 @@ Al finalizar los _sketches_, se dio paso al maquetado en _html_ y _css_, dando c
 
 Esta imagen corresponde al Log in, como correo y contraseña se utilizó:  __amalia@laboratoria.la__, la cuenta sí verifica y valida al correo y contraseña y si son incorrectos, manda un _alert_
 
-![pantalla1](assets/images\pantalla1.png)
+![pantalla1](assets/images/pantalla1.png)
 
 Se creó un _Select_ que guarda la información por sede, año y generación.
 
-![pantalla3](assets/images\pantalla3.png)
+![pantalla3](assets/images/pantalla3.png)
 
 En el menú se muestra **Aula** que contiene las gráficas de las alumnas activas e inactivas, porcentaje de cuantas cumplieron la meta. Todo lo que se muestra es con datos reales, es decir, que al cambiar la sede, año y generación, el resultado de las gráficas será completamente diferente.
 
@@ -106,34 +106,34 @@ En la parte superior de las gráficas hay una barra con información de la sede,
 
 Otra aporte a la navegación entre los **botones** que contienen **Aula, Feedback, Alumnas y Profesores** se puede distinguir el cambio de color entre ellos, cuando el usuario le ha dado click.
 
-![pantalla4](assets/images\pantalla4.png)
+![pantalla4](assets/images/pantalla4.png)
 
 En el **botón Feedback** se localizan las gráficas con la informaión del _Net Promote Score_, porcentaje de alumnas satisfechas; al igual que en el **botón Alumnas** toda la información es real y con ello las gráficas cambian dependiendo de la selección.
 
-![pantalla5](assets/images\pantalla5.png)
+![pantalla5](assets/images/pantalla5.png)
 
 En esta sección el **botón Alumnas** muestra a las mismas, su nombre, su fotografía, si están activas o inactivas, su puntuación y en la parte superior hay una barra de búsqueda que es totalmente funcional.
 
-![pantalla6](assets/images\pantalla6.png)
+![pantalla6](assets/images/pantalla6.png)
 
 Al seleccionar a cualquiera de las alumnas, navegas a otra pantalla (en la imagen de abajo se muestra) dónde el usuario encuentra el perfil de la alumna de una manera más desglosada. Contiene su fotografía, gráficas que muestra su promedio y un menú que tiene la opción **Más información**
 
-![pantalla7](assets/images\pantalla7.png)
+![pantalla7](assets/images/pantalla7.png)
 
 Al darle click a **Más información** nos manda a una pantalla dónde la información de evaluación del sprint es más específica y se puede elegir por sprint. Y al hacer click sobre el _header_ donde esta el logo **Laboratoria** nos regresa a la pantalla principal.
 
-![pantalla8](assets/images\pantalla8.png)
+![pantalla8](assets/images/pantalla8.png)
 
 De regreso en la pantalla principal, en el **botón Profesores** nos despliega sus fotografías, nombre del profesor y su punmtaje - promedio de todos los _sprints_
 
-![pantalla9](assets/images\pantalla9.png)
+![pantalla9](assets/images/pantalla9.png)
 
 
 En este [video]() se muestra la interacción del usuario con el producto.
 
 También se realizó un prototpo de la cuenta del usuario (perfil) que tienen herramientas como un calendario, agendar citas con otros profesores, checar correo, notificacines, etcétera.
 
- ![perfil](assets/images\imagen-carpeta-personal.png)
+ ![perfil](assets/images/imagen-carpeta-personal.png)
 
 ### Sobre JavaScript <h3>
 

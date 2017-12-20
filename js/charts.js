@@ -58,12 +58,12 @@ function getAndDraw(e) {
     var ratings = data[city][classyear]['ratings'];
     var arrayScoreJedi = [];
     for (var i = 0; i < ratings.length; i++) {
-        arrayScoreJedi[i] = ratings[i].jedi;
+        arrayScoreJedi.push(ratings[i].jedi)
     }
 
     var arrayScoreTeachers = [];
     for (var i = 0; i < ratings.length; i++) {
-        arrayScoreTeachers[i] = ratings[i].teacher;
+        arrayScoreTeachers.push(ratings[i].teacher)
     }
 
     var teacherAvg = eval(arrayScoreTeachers.join('+')) / arrayScoreTeachers.length
