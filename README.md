@@ -4,6 +4,13 @@
 ***
 ## Sobre el producto <h2>
 
+### GH PAGE
+https://biokah.github.io/Laboratoria-dashboard/
+
+
+### Usuario y contraseña
+amalia@laboratoria.la
+
 En **[Laboratoria](https://http://talento.laboratoria.la//)**, las _Training Managers (TMs)_ analizan datos respecto al desempeño de las estudiantes para dar un seguimiento a su aprendizaje. <br>
 Para revisar esta data, las _TMs_, normalmente, tienen que chequear muchos documentos de excel _(Google Spreadsheets)_ que están localizados en distintas carpetas y ubicaciones, provocando que pierdan tiempo al consultar estos documentos.
 
