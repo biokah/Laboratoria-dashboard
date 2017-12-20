@@ -144,4 +144,6 @@ También se realizó un prototpo de la cuenta del usuario (perfil) que tienen he
 
 ### Sobre JavaScript <h3>
 
-<!--Coloca aquí tu comentario-->
+Lo más destacable del desarrollo en Javascript fue la utilización de eventos, manipulación de elementos de HTML a través del DOM y manipulación de la data proporcionada a través del archivo Json.
+La detonación del evento Change del select permitió establecer como variable nuestra opción elegida por el usuario, en este caso las diferentes sedes y generaciones. A partir de esto se accedió a la data en sus diferentes niveles, pues tuvo que trabajarse en arreglos de doble dimensión y objetos compuestos. También se implementaron validaciones que permitieran al usuario tener una mejor interacción con la plataforma. 
+Para las gráficas se utilizó Google Charts con los datos obtenidos a través de la manipulación. 
